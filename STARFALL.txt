@@ -1,0 +1,58 @@
+[[include component:jstyles]]
+[[include :scp-jp:component:custom-divider]]
+[[include :scp-jp:theme:black-highlighter-theme]]
+[[include :scp-jp:theme:minimalist-bhl]]
+
+[[module CSS]]
+:root {
+    --header-title: none;
+    --header-subtitle: none;
+    --logo-image: url('http://scp-jp-storage.wikidot.com/local--files/file:4294437-26-wzy7/Custodire_entertainment.svg');
+    --lgurl: var(--logo-image);
+    --header-height-on-desktop: 5rem;
+    --header-height-on-mobile: 5rem;
+
+}
+
+#page-title{
+    display: none;
+}
+#header::before {
+    opacity: 1;
+}
+[[/module]]
+[[include :scp-jp:credit:start]]
+**題:** 金烏ノ帰還
+**著:** [[*user 2MeterScale]]
+**年:** 2024
+[[include :scp-jp:credit:end]]
+　
+[[image https://scp-jp-storage.wdfiles.com/local--files/file:4294437-19-nh0w/Starfall_banner.svg]]
+
+[[=]]
+[[size 1.5em]]**西暦二〇一四年　一月八日**[[/size]]
+[[/=]]
+
+
+
+[[module css]]
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho&display=swap');
+:root {
+    --default-font-family:'Shippori Mincho', Mincho;
+}
+
+#page-content tt sup {
+    top: unset;
+}
+
+[[/module]]
+**付与予定タグ:** ここに付与する予定のタグ
+
+
+[[collapsible show="+ スポイラーを開く" hide="- スポイラーを閉じる"]]
+ここにスポイラー(記事のネタバレ、又は記事本文では書いてない裏設定)や批評してほしいポイント
+[[/collapsible]]
+
+[[collapsible show="+ 使用画像のライセンス表示を開く" hide="- 使用画像のライセンス表示を閉じる"]]
+ここに使用した画像のライセンス表示をストレージサイトからコピー&ペースト
+[[/collapsible]]
