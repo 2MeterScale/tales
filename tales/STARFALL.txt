@@ -560,6 +560,8 @@
 @@@@
 [[/div]]
 
+　その日の夜の離れでは、六人が食卓を囲んでいた。壱晟、細川、燕、幹彦はもちろんのこと、燕の母と幹彦の母もいる。顔がよく似ているから、どうやら二人は姉妹のようだ。
+
 [[module css]]
 @import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho&display=swap');
 :root {
