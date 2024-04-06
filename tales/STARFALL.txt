@@ -718,6 +718,17 @@
 
 　細川の意識は暗闇に落ちた。
 
+[[div class="dc_divider_226339"]]
+@@@@
+[[/div]]
+
+[[=]]
+[[size 1.5em]]**西暦二〇一四年　一月九日**[[/size]]
+東京都　江東区
+[[/=]]
+
+
+
 [[module css]]
 @import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho&display=swap');
 :root {
