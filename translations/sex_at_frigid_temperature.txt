@@ -1,12 +1,18 @@
-[[>]]
-[[module Rate]]
-[[/>]]
+[[include :scp-jp:info:start]]
+翻訳責任者: [[*user 2MeterScale]]
+翻訳年: 2024
+著作権者: [[*user SoullessSingularity]]
+原題: sex at frigid temperature
+作成年: 2015
+参照リビジョン: 13
+元記事リンク: https://scp-wiki.wikidot.com/this-world-is-as-you-would-have-wanted
+[[include :scp-jp:info:end]]
 
 //雲で隠そうとするには、あの空はあまりにも綺麗で、にわか雨は語り得ぬ悲しみのように降る。雪はやわらかな欠片となって舞い落ち、春が来るまで融けることはない。そして嵐を呼ぶには、あの風は優しすぎる。この世界においては、いつだってそうなのだ。//
 @@ @@
 @@ @@
 @@ @@
-ヴァレンタイン・デーに、アイスバーグ博士は彼の[[span style="display:ruby"]]恩師[[span style="display:ruby-text;font-size: .5em"]]ギアーズ博士[[/span]][[/span]]へ棘のない薔薇を一本だけ贈った。もし今がただ続くなら、ぼくは貴方のように仕事を処理するだけの冷たい機械になってしまう。それでも貴方がぼくを拒むのであれば、ぼくはここを去って、全部をなかったことにする。そう思って、アイスバーグは自分の思いを吐き出した。
+バレンタイン・デーに、アイスバーグ博士は彼の[[span style="display:ruby"]]恩師[[span style="display:ruby-text;font-size: .5em"]]ギアーズ博士[[/span]][[/span]]へ棘のない薔薇を一本だけ贈った。もし今がただ続くなら、ぼくは貴方のように仕事を処理するだけの冷たい機械になってしまう。それでも貴方がぼくを拒むのであれば、ぼくはここを去って、全部をなかったことにする。そう思って、アイスバーグは自分の思いを吐き出した。
 
 「ぼくは貴方と共に居たい。貴方となら、この財団の歯車にだってなれる」
 
@@ -14,15 +20,15 @@
 
 一年目の二人は、しかしすれ違ったままであった。アイスバーグがおはようのキスを始めたというのに、なにも変わらなかった。ギアーズがお返しをすることもなかったし、かといって避けることもなかったのだ。もどかしさに耐えかねたアイスバーグは、ギアーズに少しばかり妬いてもらおうかと思った。何ヶ月かの間、いろんな女性に粉をかけてみたりもした。しかし、ギアーズはなにも言わなかった。もし冷めてしまったなら別れよう、という提案以外は。
 
-On their first anniversary, Dr. Gears walked in five minutes late and placed a vase of freshly cut roses onto his partner's desk before attending to the morning paperwork.
+一周年の記念日に、ギアーズは瑞々しい薔薇の切り花を挿した花瓶を、アイスバーグの机に置いた。だから、ギアーズは始業の時間に五分ばかり遅れることになってしまったが。
 
-Dr. Iceberg had forgotten. Embarrassed, he skipped lunch for some shopping. By the evening, he had presented Dr. Gears a box of chocolates.
+その日のことを、アイスバーグはすっかりと忘れてしまっていた。ひどく恥じた彼は、昼食も取らずに買い物へ赴いた。夕刻に、アイスバーグはギアーズへ一箱のチョコレートを贈った。
 
-//"Sorry. I didn't find anything better-- work took up my time. I forgot the date-"//
+「ごめん--　　--もっといいものだってあったはずなのに、仕事に気をとられて--　　--今日がその日だってことも忘れてしまって」
 
-Dr. Gears merely nodded, then opened his mouth in expectation.
+ギアーズ博士はほんの僅かばかり頷いた。そして、期待を込めて口を開けてみせた。
 
-That night they shared a bottle of wine. Gears offered Iceberg his bedroom, then they had sex in his bed. The sunrise met them asleep in each other's limbs, no different than any other couple on the morning after Valentine's.
+その夜、二人はワインを一瓶あけた。ギアーズはアイスバーグを寝室へと招き、二人は枕をともにした。曙光がそれぞれの腕の中で眠る二人を照らした。その姿は、バレンタインの夜をともにした恋人そのものであった。
 
 The second year was easier. Dr. Iceberg stopped trying to get reactions. He learned instead to understand his partner's affection. It came in convenient breaks during heavy workloads, the occasional plate of muffins on his desk in the morning, and mid-afternoon fresh coffee.
 
