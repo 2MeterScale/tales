@@ -1,3 +1,30 @@
+[[include :scp-jp:theme:black-highlighter-theme]]
+[[include :scp-jp:theme:minimalist-bhl]]
+[[module CSS]]
+:root {
+    --header-title: none;
+    --header-subtitle: none;
+    --logo-image: url('https://scp-jp-storage.wdfiles.com/local--files/file:3396310-30-yubw/logo-remade-whiteout.svg');
+    --lgurl: var(--logo-image);
+    --header-height-on-desktop: 5rem;
+    --header-height-on-mobile: 5rem;
+    --header-width-on-mobile: max-content;
+}
+
+#header::before {
+    opacity: 1;
+}
+#page-title{
+    display: none;
+}
+[[/module]]
+
+[[image https://scp-jp-storage.wdfiles.com/local--files/file:4294437-28-48i5/ROUTINE.svg | width=70%]]
+@@@@
+@@@@
+@@@@
+
+
 　私がこの大学に入ったばかりのときだった。心理学を担当していた壮年の女性教授が、授業中に突然「この大学には、曰く付きの場所があってね」と言った。
 月曜の1限で、退屈な授業だったものだから、誰もがうつらうつらとしていた。でも、その言葉を聞いた瞬間、部屋の雰囲気が少し引き締まった気がする。
 
