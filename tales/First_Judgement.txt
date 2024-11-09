@@ -387,3 +387,23 @@
 [メイメー、DHTでアンヘレスを受領]
 
 
+[[include :scp-jp:theme:black-highlighter-theme]]
+[[include :scp-jp:theme:minimalist-bhl]]
+[[module CSS]]
+:root {
+    --header-title: none;
+    --header-subtitle: none;
+    --logo-image: url('https://scp-jp-storage.wdfiles.com/local--files/file:3396310-30-yubw/logo-remade-whiteout.svg');
+    --lgurl: var(--logo-image);
+    --header-height-on-desktop: 5rem;
+    --header-height-on-mobile: 5rem;
+
+}
+
+#page-title{
+    display: none;
+}
+#header::before {
+    opacity: 1;
+}
+[[/module]]
