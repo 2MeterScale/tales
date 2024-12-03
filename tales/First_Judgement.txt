@@ -1085,7 +1085,7 @@ KAVALANの蒸留所見学をしている最中、戦端が開かれたことを�
 〈江〉、〈河〉: A技研が開発した最新式パワードスーツ。遠距離攻撃を得意としたFCSを積んだ〈河〉と格闘戦が得意な〈江〉を同時に運用することが前提となっている。
 
 
-
+[[include :scp-jp:component:custom-divider]]
 [[include :scp-jp:theme:black-highlighter-theme]]
 [[include :scp-jp:theme:minimalist-bhl]]
 [[module CSS]]
