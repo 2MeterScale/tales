@@ -1125,10 +1125,15 @@
 　そう言い残して、彼は身長の三倍の高さを跳び、どこかへと消えていった。
 
 
+戦闘
 
+エピローグ
 
 
 [[=image https://scp-jp-storage.wdfiles.com/local--files/file%3A4294437-30-cfpp/saisho_no_shinpan_hanten.svg]]
+
+ベニモトは株主総会の指示で技研を解体するために動いていた。メイウーの「脱ぎ捨てた」方の体から「鍵」を回収することにも成功している。
+本当はヤクシの産業スパイ。アンダーソンの勢力を削ぐついでに、DHTを掠め取ってくることが任務だった。
 
 [[include :scp-jp:theme:black-highlighter-theme]]
 [[include :scp-jp:theme:minimalist-bhl]]
