@@ -16,8 +16,9 @@
 欲望とカオスが渦巻く極彩色のメガロシティ。
 メガコーポによる資本主義的無政府状態が罷り通る末法の世。
 政治に参加したくば、株券を買って株主総会に出る他ない。
-眩い都市なれど、その闇は濃い。
-この都市の闇を走る者たちは、[[span style="display:ruby"]]叛客[[span style="display:ruby-text;font-size: .5em"]]PUNK[[/span]][[/span]]と呼ばれている。
+
+この都市の光のすぐ横に、濃い闇が横たわっている。
+その闇を走る者たちは、[[span style="display:ruby"]]叛客[[span style="display:ruby-text;font-size: .5em"]]PUNK[[/span]][[/span]]と呼ばれている。
 
 人々は、正道と邪道のはざまで生きるしかない。
 [[/=]]
